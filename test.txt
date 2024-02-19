@@ -1,0 +1,4 @@
+Имеются две таблицы:
+Таблица users : user_id , login , hash_password
+Таблица cards : card_id , user_id , name , surname
+Напишите SQL запрос, выбирающий пользователей (user_id и login), у которых заведено более одной карточки.
